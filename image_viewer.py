@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
 from os import listdir
-from tkinter.constants import E, LEFT, SUNKEN, W
+from tkinter.constants import E, SUNKEN, W
 # for using different type of images
 from PIL import Image, ImageTk
 
